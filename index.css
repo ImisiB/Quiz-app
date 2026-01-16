@@ -1,0 +1,35 @@
+body{
+  font-family: cursive;
+  background-color: purple;
+  height: 90vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.questions{
+  width: 500px;
+}
+
+.button2{
+  display: none;
+}
+button{
+  border: white solid 1px ;
+  border-radius: 5px;
+  background-color: purple;
+  cursor: pointer;
+  color: white;
+  padding: 10px;
+}
+button:hover{
+  transition-duration: 1s;
+  background-color: rgb(95, 9, 95);
+}
+.div3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
